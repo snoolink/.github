@@ -37,19 +37,19 @@ We are the Snoolink Team
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
  -->
-
+<p><a href="https://www.twitter.com/snoolink"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/company/snoolink/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://snoolink.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://www.instagram.com/snoolink/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </p>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://raw.githubusercontent.com/snoolink/database/main/Website%20Assets/snoolink-logo-black.png">
-    <img src="https://raw.githubusercontent.com/snoolink/database/main/Website%20Assets/snoolink-logo-black.png" alt="Snoolink Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/snoolink/database/main/Website%20Assets/snoolink-logo-black.png" alt="Snoolink Logo" width="120" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Snoolink</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    All your social media in one link!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
