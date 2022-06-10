@@ -41,14 +41,11 @@ We are the Snoolink Team
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="left">
   <a href="https://raw.githubusercontent.com/snoolink/database/main/Website%20Assets/snoolink-logo-black.png">
-    <img src="https://raw.githubusercontent.com/snoolink/database/main/Website%20Assets/snoolink-logo-black.png" alt="Snoolink Logo" width="120" height="80">
+    <img src="https://raw.githubusercontent.com/snoolink/database/main/Website%20Assets/snoolink-logo-black.png" alt="Snoolink Logo" width="200" height="150">
   </a>
-
-  <h3 align="center">Snoolink</h3>
-
-  <p align="center">
+  <p align="left">
     All your social media in one link!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
