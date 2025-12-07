@@ -1,6 +1,6 @@
 <div align="center">
 
-![Snoolink Logo](https://raw.githubusercontent.com/snoolink/frontend/refs/heads/main/assets/full_logo-white.png)
+![Snoolink Logo](https://raw.githubusercontent.com/snoolink/frontend/refs/heads/main/assets/full_logo-black.png)
 
 # ✨ Snoolink - Your AI Social Media Assistant
 
